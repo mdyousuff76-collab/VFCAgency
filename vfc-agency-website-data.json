@@ -1,0 +1,80 @@
+{
+  "company": {
+    "name": "VFC Agency",
+    "tagline": "Social Media Management || AI Expert",
+    "type": "Digital Marketing Agency",
+    "ceo": "Yousuf (CEO & Founder)"
+  },
+  "contact": {
+    "whatsapp_display": "016 2996 7878",
+    "whatsapp_number": "01629967878",
+    "whatsapp_link": "https://wa.me/8801629967878"
+  },
+  "services": [
+    "Social Media Management",
+    "Meta Ads Management",
+    "Graphic Design & Content Creation",
+    "Video Editing & Video Ads",
+    "Business Page Setup",
+    "Branding",
+    "AI-Powered Marketing",
+    "Landing Page Design (WordPress)"
+  ],
+  "team": [
+    { "name": "Sumaiya Shimu", "role": "Graphic Designer" },
+    { "name": "MD. Shakib", "role": "Digital Marketer" },
+    { "name": "Arif Billa", "role": "Video Editor" },
+    { "name": "Imran Shikdar", "role": "Content Marketer" }
+  ],
+  "currency": "BDT",
+  "pricing": {
+    "social_media_management": [
+      { "plan": "Basic", "price": 8900, "regular_price": 16900, "posts": 10, "stories": 10, "advertising_videos": 3, "reels": 10, "report": "Monthly Performance Report" },
+      { "plan": "Standard", "price": 12900, "regular_price": 19900, "posts": 20, "stories": 20, "advertising_videos": 4, "reels": 20, "report": "Monthly Performance Report with Deep Competitor Analysis", "extras": ["Business Manager Account Create", "Ad Account Create & Setup"] },
+      { "plan": "Premium", "price": 16900, "regular_price": 29900, "posts": 30, "stories": 30, "advertising_videos": 5, "reels": 30, "report": "Monthly Performance Report with Deep Competitor Analysis", "extras": ["Business Manager Account Create", "Ad Account Create & Setup", "Pixel Setup", "Website Design (Landing page)"] }
+    ],
+    "meta_ads_boosting": {
+      "rate": "$1 = 150 BDT",
+      "note": "Price includes service + ad cost. Results are estimates and vary by audience, location, competition, content quality and ad performance.",
+      "starter": [
+        { "plan": "Low", "daily_budget_usd": 2, "days": 3, "total_ad_budget_usd": 6, "price": 900, "est_daily_reach": "1,000-3,000+", "est_daily_impressions": "1,200-8,000+" },
+        { "plan": "Standard", "daily_budget_usd": 5, "days": 5, "total_ad_budget_usd": 25, "price": 3750, "est_daily_reach": "2,500-7,500+", "est_daily_impressions": "3,000-10,000+" },
+        { "plan": "Premium", "daily_budget_usd": 10, "days": 10, "total_ad_budget_usd": 100, "price": 15000, "est_daily_reach": "5,000-15,000+", "est_daily_impressions": "6,000-20,000+" }
+      ],
+      "premium": [
+        { "plan": "Basic", "daily_budget_usd": 5, "days": 3, "total_ad_budget_usd": 15, "price": 2250, "est_daily_reach": "2,500-7,500+", "est_daily_impressions": "3,000-10,000+" },
+        { "plan": "Standard", "daily_budget_usd": 10, "days": 10, "total_ad_budget_usd": 100, "price": 15000, "est_daily_reach": "5,000-15,000+", "est_daily_impressions": "5,000-20,000+" },
+        { "plan": "Premium", "daily_budget_usd": 10, "days": 20, "total_ad_budget_usd": 200, "price": 30000, "est_daily_reach": "5,000-15,000+", "est_daily_impressions": "6,000-20,000+" }
+      ]
+    },
+    "page_followers": {
+      "real_bangladeshi": [
+        { "followers": 1000, "price": 350 },
+        { "followers": 5000, "price": 1350 },
+        { "followers": 10000, "price": 2350, "label": "Best Value" }
+      ],
+      "bangladeshi": [
+        { "followers": 1000, "price": 250 },
+        { "followers": 5000, "price": 950 },
+        { "followers": 10000, "price": 1650, "label": "Popular" }
+      ]
+    },
+    "video": {
+      "advertising_video": [
+        { "length_seconds": 30, "price": 790, "regular_price": 1190 },
+        { "length_seconds": 60, "price": 1290, "regular_price": 1990 }
+      ],
+      "intro_video": { "price": 390, "regular_price": 799 }
+    },
+    "business_page_setup": [
+      { "plan": "Silver", "price": 1490 },
+      { "plan": "Gold", "price": 1990 },
+      { "plan": "Diamond", "price": 2490 }
+    ]
+  },
+  "faq": [
+    { "q": "How do I order?", "a": "Press an order button on any package or message WhatsApp 016 2996 7878." },
+    { "q": "How is Ads/Boosting priced?", "a": "$1 = 150 BDT. The package price includes service charge and ad cost." },
+    { "q": "Are boosting results guaranteed?", "a": "No. Reach and impressions are estimates and depend on audience, location, competition, content quality and ad performance." }
+  ]
+}
